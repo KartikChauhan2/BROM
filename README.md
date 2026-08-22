@@ -1,81 +1,113 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/BROM-Bannar%20Robotics%20Operations%20Manager-0a0a0a?style=for-the-badge&labelColor=000000" alt="BROM"/>
+
+<br/><br/>
+
 # BROM
 
-**Bannar Robotics Operations Manager**
+### Bannar Robotics Operations Manager
 
 *Official release & distribution repository*
 
-[![Latest Release](https://img.shields.io/github/v/release/bannar-robotics/BROM?label=latest&style=for-the-badge)](https://github.com/bannar-robotics/BROM/releases/latest)
-[![License](https://img.shields.io/badge/license-Proprietary-red?style=for-the-badge)](./LICENSE)
-[![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS-blue?style=for-the-badge)](#available-platforms)
+<br/>
 
-### ⬇️ [**DOWNLOAD BROM**](https://github.com/bannar-robotics/BROM/releases/latest) ⬇️
+[![Latest Release](https://img.shields.io/github/v/release/KartikChauhan2/BROM?label=Latest%20Release&style=for-the-badge&color=1f6feb&labelColor=000000)](https://github.com/KartikChauhan2/BROM/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/KartikChauhan2/BROM/total?label=Downloads&style=for-the-badge&color=2ea043&labelColor=000000)](https://github.com/KartikChauhan2/BROM/releases)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&labelColor=000000)](./LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)](#download)
+
+<br/>
+
+## ⬇️ [**DOWNLOAD BROM FOR ANDROID**](https://github.com/KartikChauhan2/BROM/releases/latest/download/BROM.apk)
+
+*Always downloads the latest version*
+
+<br/>
+
+[View all releases →](https://github.com/KartikChauhan2/BROM/releases)
 
 </div>
+
+<br/>
 
 ---
 
 ## What is BROM?
 
-BROM (Bannar Robotics Operations Manager) is Bannar Robotics' operations management application, built with Flutter for Android, iOS, Windows, macOS, and Linux.
+BROM (**B**annar **R**obotics **O**perations **M**anager) is Bannar Robotics' operations management application, built with Flutter. This repository is the **official distribution channel** for BROM — it does not contain the app's source code, which remains private.
 
-This repository does **not** contain BROM's source code. It exists solely to distribute official, signed BROM builds and to document releases. The application itself is developed in a private repository.
+<br/>
 
-## Current Version
+## Download
 
-**Latest release:** `v2.0.0` — see the [Releases page](https://github.com/bannar-robotics/BROM/releases/latest) for release notes and changelog.
+<div align="center">
 
-## Download BROM
+| | |
+|:---:|:---|
+| 🤖 | **Android** — [Download latest APK](https://github.com/KartikChauhan2/BROM/releases/latest/download/BROM.apk) |
 
-The button above always points to the latest official release. You can also browse all releases and pick a specific version:
+</div>
 
-➡️ **[github.com/bannar-robotics/BROM/releases](https://github.com/bannar-robotics/BROM/releases)**
+> Currently distributed for **Android only**. Additional platforms (Windows, macOS, Linux, iOS) will be added in future releases.
 
-## Available Platforms
-
-| Platform | Format | Notes |
-|---|---|---|
-| Android | `.apk` | Direct install (enable "install from unknown sources") |
-| Android | `.aab` | For internal distribution via Google Play only |
-| Windows | `.msix` or installer `.exe` | See installation notes below |
-| macOS | `.dmg` | Signed & notarized disk image |
-| Linux | `.tar.gz` (or `.AppImage` if provided) | See installation notes below |
-| iOS | TestFlight / Ad-hoc | Apple does not allow direct `.ipa` sideloading — see below |
+<br/>
 
 ## Installation
 
-1. Go to the [Releases page](https://github.com/bannar-robotics/BROM/releases).
-2. Download the asset for your platform from the version you want.
-3. **Android:** open the downloaded `.apk` and allow installation from this source if prompted.
-4. **Windows:** run the `.msix`/installer and follow the prompts. If Windows SmartScreen warns you, this is expected for apps distributed outside the Microsoft Store — verify you downloaded from this official repository before proceeding.
-5. **macOS:** open the `.dmg` and drag BROM into Applications.
-6. **Linux:** extract the `.tar.gz` and run the BROM executable, or install the `.AppImage` if provided.
-7. **iOS:** BROM is distributed via TestFlight or ad-hoc distribution. See the instructions on the latest release page or contact support.
+1. Download the APK using the button above.
+2. Open the downloaded file on your Android device.
+3. If prompted, allow **"Install from unknown sources"** for your browser/file manager — this is expected for apps distributed outside the Play Store.
+4. Follow the on-screen prompts to install.
+5. Open BROM and log in — see [Access & Authentication](#access--authentication) below.
+
+<br/>
 
 ## System Requirements
 
-- **Android:** 8.0 (Oreo) or later
-- **iOS:** iOS 15 or later
-- **Windows:** Windows 10 (64-bit) or later
-- **macOS:** macOS 12 (Monterey) or later
-- **Linux:** 64-bit desktop distribution with standard GTK libraries
+| Requirement | Minimum |
+|---|---|
+| OS | Android 8.0 (Oreo) or later |
+| Storage | 100 MB free space *(update if your actual footprint differs)* |
+| Network | Internet connection required for login and sync |
+
+<br/>
 
 ## Version History
 
-See the full changelog on the [Releases page](https://github.com/bannar-robotics/BROM/releases). Every release includes version notes, platform assets, and a summary of changes.
+Full changelogs, past versions, and release notes live on the [Releases page](https://github.com/KartikChauhan2/BROM/releases). Every release lists what changed and links its exact APK build.
 
-## Access & Security
+<br/>
 
-Downloading BROM does **not** grant you access to use it. BROM uses a separate, controlled authentication system managed by the Bannar Robotics backend. New users must be authorized by a System Administrator before they can log in. This repository and download page never contain credentials, API keys, or any backend secrets.
+## Access & Authentication
+
+> **Downloading BROM does not grant access to use it.**
+
+BROM uses a controlled authentication system separate from this repository. New users must be authorized by a Bannar Robotics System Administrator before they can log in:
+
+```
+Download BROM  →  Install  →  Open  →  Request access
+                                          ↓
+                          Administrator issues activation key
+                                          ↓
+                       Activate account & set password  →  Log in
+```
+
+This repository, its README, and its releases **never contain** credentials, API keys, or backend secrets of any kind.
+
+<br/>
 
 ## License
 
-BROM is proprietary software. See [LICENSE](./LICENSE) for full terms. Downloading or installing BROM does not transfer any ownership or grant rights beyond those explicitly stated in the license.
+BROM is proprietary software owned by Bannar Robotics. See [**LICENSE**](./LICENSE) for full terms. Downloading or installing BROM does not transfer ownership or grant any rights beyond those explicitly stated in the license.
 
-## Support / Contact
+<br/>
 
-For access requests, activation issues, or general support, contact your Bannar Robotics System Administrator or reach out at **support@bannarrobotics.example** *(replace with your real support address)*.
+## Support
+
+For access requests or installation help, contact your Bannar Robotics System Administrator, or reach **support@bannarrobotics.example** *(replace with your real support address)*.
+
+<br/>
 
 ---
 
