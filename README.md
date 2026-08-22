@@ -19,13 +19,13 @@
 
 <br/>
 
-## ⬇️ [**DOWNLOAD BROM FOR ANDROID**](https://github.com/KartikChauhan2/BROM/releases/latest/download/BROM.apk)
+## ⬇️ [**DOWNLOAD BROM FOR ANDROID**](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-arm64-v8a.apk)
 
-*Always downloads the latest version*
+*v1.0.0 · works on almost all Android phones (2019 or newer)*
 
 <br/>
 
-[View all releases →](https://github.com/KartikChauhan2/BROM/releases)
+[View all releases & older versions →](https://github.com/KartikChauhan2/BROM/releases)
 
 </div>
 
@@ -37,27 +37,33 @@
 
 BROM (**B**annar **R**obotics **O**perations **M**anager) is Bannar Robotics' operations management application, built with Flutter. This repository is the **official distribution channel** for BROM — it does not contain the app's source code, which remains private.
 
+🌐 Learn more at **[bannarrobotics.com](https://bannarrobotics.com/)**
+
 <br/>
 
 ## Download
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🤖 | **Android** — [Download latest APK](https://github.com/KartikChauhan2/BROM/releases/latest/download/BROM.apk) |
+| Device Type | Download |
+|:---|:---|
+| 📱 Most phones (2019+) | **[BROM-v1.0.0-arm64-v8a.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-arm64-v8a.apk)** *(recommended)* |
+| 📱 Older 32-bit devices | [BROM-v1.0.0-armeabi-v7a.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-armeabi-v7a.apk) |
+| 💻 Emulator / x86 devices | [BROM-v1.0.0-x86_64.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-x86_64.apk) |
 
 </div>
 
-> Currently distributed for **Android only**. Additional platforms (Windows, macOS, Linux, iOS) will be added in future releases.
+Not sure which one you need? Use **arm64-v8a** — it covers almost every modern Android phone.
+
+> **Note:** Every release also includes auto-generated "Source code (zip/tar.gz)" links from GitHub. Ignore those — they contain only this repository's documentation, not the app. Download the `.apk` file above instead.
 
 <br/>
 
 ## Installation
 
-1. Download the APK using the button above.
+1. Download the APK for your device using the table above.
 2. Open the downloaded file on your Android device.
-3. If prompted, allow **"Install from unknown sources"** for your browser/file manager — this is expected for apps distributed outside the Play Store.
+3. If prompted, allow **"Install from unknown sources"** for your browser/file manager — expected for apps distributed outside the Play Store.
 4. Follow the on-screen prompts to install.
 5. Open BROM and log in — see [Access & Authentication](#access--authentication) below.
 
@@ -68,14 +74,14 @@ BROM (**B**annar **R**obotics **O**perations **M**anager) is Bannar Robotics' op
 | Requirement | Minimum |
 |---|---|
 | OS | Android 8.0 (Oreo) or later |
-| Storage | 100 MB free space *(update if your actual footprint differs)* |
+| Storage | ~40 MB free space |
 | Network | Internet connection required for login and sync |
 
 <br/>
 
 ## Version History
 
-Full changelogs, past versions, and release notes live on the [Releases page](https://github.com/KartikChauhan2/BROM/releases). Every release lists what changed and links its exact APK build.
+Full changelogs and past versions live on the [Releases page](https://github.com/KartikChauhan2/BROM/releases). Every release lists what changed and links its exact APK builds.
 
 <br/>
 
@@ -103,9 +109,12 @@ BROM is proprietary software owned by Bannar Robotics. See [**LICENSE**](./LICEN
 
 <br/>
 
-## Support
+## Support & Contact
 
-For access requests or installation help, contact your Bannar Robotics System Administrator, or reach **support@bannarrobotics.example** *(replace with your real support address)*.
+🌐 Website: **[bannarrobotics.com](https://bannarrobotics.com/)**
+✉️ Email: **[contact@bannarrobotics.com](mailto:contact@bannarrobotics.com)**
+
+For access requests or installation help, contact your Bannar Robotics System Administrator or reach out via the details above.
 
 <br/>
 
