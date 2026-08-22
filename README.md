@@ -47,9 +47,9 @@ BROM (**B**annar **R**obotics **O**perations **M**anager) is Bannar Robotics' op
 
 | Device Type | Download |
 |:---|:---|
-| 📱 Most phones (2019+) | **[BROM-v1.0.0-arm64-v8a.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-arm64-v8a.apk)** *(recommended)* |
-| 📱 Older 32-bit devices | [BROM-v1.0.0-armeabi-v7a.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-armeabi-v7a.apk) |
-| 💻 Emulator / x86 devices | [BROM-v1.0.0-x86_64.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-x86_64.apk) |
+| 📱 Most phones (2019+) | **[BROM-v1.0.0-arm64-v8a.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-arm64-v8a.apk.apk)** *(recommended)* |
+| 📱 Older 32-bit devices | [BROM-v1.0.0-armeabi-v7a.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-armeabi-v7a.apk.apk) |
+| 💻 Emulator / x86 devices | [BROM-v1.0.0-x86_64.apk](https://github.com/KartikChauhan2/BROM/releases/download/v1.0.0/BROM-v1.0.0-x86_64.apk.apk) |
 
 </div>
 
