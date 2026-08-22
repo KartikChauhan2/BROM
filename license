@@ -1,0 +1,104 @@
+BROM (BANNAR ROBOTICS OPERATIONS MANAGER)
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Bannar Robotics. All rights reserved.
+
+This is a practical proprietary-software license template. It is provided
+for convenience and has not been drafted or reviewed by a lawyer. Have it
+reviewed by qualified legal counsel before relying on it for any commercial
+or public deployment.
+
+1. OWNERSHIP
+
+BROM, including its source code, object code, design, documentation,
+trademarks, and all associated intellectual property, is the exclusive
+property of Bannar Robotics ("the Company"). This repository distributes
+compiled release builds of BROM only. No source code is provided or
+licensed under this document.
+
+2. LIMITED LICENSE TO USE
+
+Subject to your compliance with this License and any separate terms of
+service or authorization requirements imposed by the Company, the Company
+grants you a limited, non-exclusive, non-transferable, revocable license to
+install and use compiled BROM release builds solely for your own internal
+or authorized business purposes.
+
+Downloading or installing BROM does not, by itself, grant you the right to
+operate it. Access to BROM's functionality is controlled separately through
+the Company's authentication and authorization system, and may require
+approval from a System Administrator, an activation key, and account
+credentials issued by the Company.
+
+3. NO TRANSFER OF OWNERSHIP
+
+Downloading, installing, or using BROM does not transfer any ownership
+interest, title, or intellectual property right in BROM to you. All rights
+not expressly granted in this License are reserved by the Company.
+
+4. RESTRICTIONS
+
+Except as expressly permitted by the Company in writing, you may not:
+
+  a. Redistribute, sublicense, sell, rent, lease, or otherwise make BROM
+     available to any third party;
+  b. Modify, adapt, translate, reverse engineer, decompile, disassemble,
+     or attempt to derive the source code of BROM;
+  c. Remove, alter, or obscure any proprietary notices, labels, or marks
+     on or in BROM;
+  d. Use BROM for any unauthorized commercial purpose, including offering
+     it as part of a competing product or service;
+  e. Circumvent, bypass, or attempt to gain unauthorized access to BROM's
+     authentication system or backend infrastructure.
+
+5. NO ACCESS TO BACKEND OR SOURCE CODE
+
+This License governs the compiled release build of BROM distributed via
+this repository only. It does not grant any right to access, use, or
+inspect the Company's backend systems, APIs, databases, infrastructure, or
+private source code repositories.
+
+6. AUTHORIZATION AND ACCOUNT ACTIVATION
+
+Use of BROM requires authorization from a Bannar Robotics System
+Administrator. The Company reserves the right to approve, deny, suspend, or
+revoke any user's access to BROM at its sole discretion, independent of
+this License.
+
+7. DISCLAIMER OF WARRANTY
+
+BROM IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE COMPANY DOES NOT WARRANT
+THAT BROM WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY SHALL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, BROM.
+
+9. TERMINATION
+
+This License and any authorization to use BROM terminate automatically if
+you breach any of its terms, or immediately upon revocation of your access
+by a System Administrator. Upon termination, you must cease all use of
+BROM and delete all copies in your possession.
+
+10. GOVERNING LAW
+
+This License shall be governed by the laws of the jurisdiction in which
+Bannar Robotics is organized, without regard to its conflict-of-laws
+principles. (Specify the governing jurisdiction here after legal review.)
+
+11. CONTACT
+
+For licensing questions, authorization requests, or permissions beyond the
+scope of this License, contact Bannar Robotics at:
+support@bannarrobotics.example (replace with your real contact address).
+
+---
+NOTE: This document is a practical template intended to communicate basic
+proprietary-software terms. It is not a substitute for advice from a
+qualified attorney. Have this License reviewed and customized by legal
+counsel before using it for commercial or public distribution.
