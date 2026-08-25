@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="LOGO_URL_HERE" alt="BROM Logo" width="120"/>
-
 # BROM
 ### Bannar Robotics Operations Manager
 
