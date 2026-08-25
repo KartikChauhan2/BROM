@@ -170,7 +170,7 @@ Reach out to your System Administrator and provide your email address.
 - Your email address becomes tied to your account.
 
 ```
-![Account Creation](https://github.com/KartikChauhan2/BROM/blob/main/Assets/Account%20Creation.png?raw=true)
+https://github.com/KartikChauhan2/BROM/blob/main/Assets/Account%20Creation.png?raw=true
 ```
 
 ### Step 2 — Account Creation
