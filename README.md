@@ -160,18 +160,13 @@ Every BROM user goes through the same onboarding process — no matter their eve
 > **You cannot create your own BROM account.** Every account is created by the System Administrator.
 
 ### Step 1 — Contact the System Administrator
-
 Reach out to your System Administrator and provide your email address.
-
 > *"This is my email address. Please create my BROM account."*
-
 - Self-registration is **not** available.
 - The System Administrator creates the account on your behalf.
 - Your email address becomes tied to your account.
 
-```
-https://github.com/KartikChauhan2/BROM/blob/main/Assets/Account%20Creation.png?raw=true
-```
+![Contact / registration process](https://github.com/KartikChauhan2/BROM/blob/main/Assets/Account%20Creation.png?raw=true)
 
 ### Step 2 — Account Creation
 
